@@ -1,0 +1,36 @@
+/* Deklaracje */
+:root {
+  --bg1: rgb(140, 221, 124);
+  --bg2: rgb(98, 181, 102);
+  --txt: rgb(156,13,187);
+
+}
+
+#tabbar-container {
+background-color: var(--bg1) !important;
+}
+
+.tab.active {
+background-color: var(--bg1) !important;
+}
+
+.label-content {
+  color: var(--txt);
+}
+
+.tab {
+border: solid 1px var(--bg2);
+}
+
+#normal-tabs-container {
+scrollbar-width: none;
+}
+
+.twisty {
+display: none;
+}
+
+#tabbar:hover .twisty{
+display: unset !important;
+
+}
