@@ -3,7 +3,10 @@
 <h2>1.Extentions</h2>
 <br>
 <ul>
-  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/">Youtube non stop</a>- Used to remove "are you still watching?" youtube popup and prevents videos from pausing because of this</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/">Youtube non stop</a>- Used to remove "are you still watching?" youtube popup and prevents videos from pausing</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/clearurls/">CleanURLs</a>- Extention that removes tracking elements from url-s</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/addon-letyshops/">Letyshops</a>- cashback service</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/">Dark reader</a>- extention for dark mode for websites</li>
 </ul>
 
 userChrome.css, userContent.css dla przeglądarki Firefox/for Firefox browser.
