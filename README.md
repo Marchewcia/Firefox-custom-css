@@ -7,12 +7,12 @@
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/clearurls/">CleanURLs</a>- extention that removes tracking elements from url-s</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/addon-letyshops/">Letyshops</a>- cashback service</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/">Dark reader</a>- extention that adds dark mode for websites</li>
-  <li><a hreef="https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/">Decentraleyes</a>- protects against tracking</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/">Decentraleyes</a>- protects against tracking</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/">Return youtube dislikes</a>- return dislikes count on youtube</li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/search_by_image/">Search by image</a>- allows to quickly search similar images or source of the image with various tools like google lense</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/sidebery/">Sideberry</a>- quite advanced tool for displaying vertical tabs and way more</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/">Translate web pages</a>- tool for translating websites</li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">Ublock Origin</a>- powerfull blocker for ads and much more</li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
