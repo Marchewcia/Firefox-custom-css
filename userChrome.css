@@ -118,13 +118,13 @@
 #sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]{
     min-width: 30px !important;
     max-width: 30px !important;
-    transition-duration: 0.83s;
+    transition-duration: 0.4s;
 }
 
 #sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]:hover{
     min-width: 200px !important;
     max-width: 200px !important;
-    transition-duration: 0.83s;
+    transition-duration: 0.4s;
 }
 
 /* .twisty[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]:hover{
