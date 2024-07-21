@@ -4,4 +4,6 @@
 !user.js
 !chrome/
 !chrome/**
+!other/
+!other/**
 !README.md
