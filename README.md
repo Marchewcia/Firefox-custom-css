@@ -6,7 +6,6 @@
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/">Youtube non stop</a>- Used to remove "are you still watching?" youtube popup and prevents videos from pausing</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/clearurls/">CleanURLs</a>- extention that removes tracking elements from url-s</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/addon-letyshops/">Letyshops</a>- cashback service</li>
-  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/">Dark reader</a>- extention that adds dark mode for websites</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/">Decentraleyes</a>- protects against tracking</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/">Return youtube dislikes</a>- return dislikes count on youtube</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/search_by_image/">Search by image</a>- allows to quickly search similar images or source of the image with various tools like google lense</li>
