@@ -12,13 +12,15 @@
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/sidebery/">Sideberry</a>- quite advanced tool for displaying vertical tabs and way more</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/">Translate web pages</a>- tool for translating websites</li>
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">Ublock Origin</a>- powerfull blocker for ads and much more</li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
 </ul>
 
 userChrome.css, userContent.css dla przeglądarki Firefox/for Firefox browser.
 
-tapeta/wallpaper: https://x.com/shadeofacat_/status/1688921021456556033
+<br>
+<h2>2.User.js</h2>
+Source for User.js file:  https://github.com/yokoffing/Betterfox
+<br>
+
+wallpaper used: https://x.com/shadeofacat_/status/1688921021456556033
 <br><br>
 TST- Plik dla rozszerzenia Tree Style Tab, który można dodać w opcjach tego rozszerzenia (rozszerzenia -> tst -> opcje, przewiń na dół)/ File for Tree Style Tab extention, which you can add in options of this extention (extentions -> tst -> options, scroll down)
